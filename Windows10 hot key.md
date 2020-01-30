@@ -22,4 +22,3 @@
 19. win+L 锁定PCF4+Alt关闭当前窗口，焦点在桌面时则是关机
 
 [百度百科快捷键大全]: https://baike.baidu.com/item/Windows%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/407192?fr=aladdin
-
